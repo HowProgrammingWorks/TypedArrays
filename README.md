@@ -1,4 +1,5 @@
 # TypedArrays
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tTNcqxbxhfY/0.jpg)](https://www.youtube.com/watch?v=tTNcqxbxhfY)
 
 - ArrayBuffer
 - DataView
