@@ -6,7 +6,7 @@ for (let i = 0; i < 10; i++) {
   arr8[i] = i;
 }
 
-const mapped = arr8.map(el => el * 2);
+const mapped = arr8.map((el) => el * 2);
 console.dir(mapped);
 
 console.dir([

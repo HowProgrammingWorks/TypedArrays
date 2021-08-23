@@ -8,7 +8,7 @@ const types = [
   Float64Array
 ];
 
-const size = types.map(typedArray => typedArray.BYTES_PER_ELEMENT);
+const size = types.map((typedArray) => typedArray.BYTES_PER_ELEMENT);
 
 console.dir({
   types,
