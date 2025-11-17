@@ -12,6 +12,6 @@ console.dir(mapped);
 console.dir([
   arr8.indexOf(2),
   arr8.lastIndexOf(10),
-  arr8.reverse(),
+  arr8.toReversed(),
   arr8.slice(2, 7),
 ]);
